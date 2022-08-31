@@ -1,0 +1,11 @@
+Le fichier age_salaire represente l'age et le salaire de toutes les communes de france.
+
+Le fichier papers représente le spcraping du site papers pour un seul medecin donc il faut changer l'url pour spécifier le dentiste.
+
+Le fichier dess_med_adresse réprésente le dessert medicaux connaissant l'adresse des praticiens pour les villes de la loire donc il faudra changer l'url de la loire pour d'autres villes de france.
+
+Le fichier actes_tarification représente les actes et tarification des dentistes présents dans la loire donc il faudra changer pour d'autre ville.
+
+Le fichier doctolib représente les dentistes présents sur doctolib et s'ils prennent de nouveaux patiens. Donc il faudra changer l'url de la commune.
+
+le fichier liste_url représente la liste des urls des autres communes de france pour les changements d'url.
